@@ -1,0 +1,32 @@
+Domain :- Hospitality 🏨 .
+Function :- Revenue 💵 .
+
+📌 Problem Statement :- Royal Hotels owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Royal Hotels are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Royal Hotels wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
+
+📌 Task:-
+1) Create the metrics according to the metric list.
+2) Create a dashboard according to the mock-up provided by stakeholders.
+3) Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+📌 Approach :-
+1) Understanding the functionality and requirements of the stakeholder.
+2) Understanding the data, Cleaning and loading the data.
+3) Manage relationships among the tables.
+4)Creating DAX queries.
+5) Creating Dashboard.
+6) Providing Insights.
+
+📌 Key Insights:-
+1) Total Revenue Recorded is 1.69 billion and Mumbai generates the highest.
+2) Business rooms contributes the major part in revenue of about 1.04 billion
+3) Occupancy of Luxury rooms are relatively higher.
+4) Business rooms were more prominently booked as a logtrip where as luxury were booked directly offline.
+5) On the basis of room type Presidential have the highest RevPAR and Elite exceeds in DSRN.
+6) Properties in Bangalore are more frequently cancelled.
+7) There are more no. of bookings in the month of MAY.
+
+📌 Key Learnings:-
+🔹 Incorporating business and data intelligence can help regain market share and revenue in the hospitality industry.
+🔹 Understanding customer preferences and optimizing room types can drive higher revenue.
+🔹 Monitoring cancellation rates and seasonal booking trends can aid in better resource allocation and planning.
+🔹 Data-driven insights enable informed decision-making and strategic moves for long-term success.
